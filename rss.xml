@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WhiskySkills ]]></title>
+        <description><![CDATA[WhiskySkills ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Mar 2016 07:14:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What does it take to create a new malt whisky business? - BBC News]]></title>
+            <description><![CDATA[<article><h1>What does it take to create a new malt whisky business? - BBC News</h1><p>"Once you're selling everything you make, it's a licence to print money," says whisky consultant Jim Swan. Mr Swan, who advises distilleries around the world, is talking about Scotland's prized single malt whiskies. Considered by most whisky aficionados to be the pinnacle of the industry, single malts are whiskies made from a single distillery using only malted barley.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a0fcaa5f03454c698fb551cacf025b08b2f6aa1.jpg"></article>]]></description>
+            <link>http://www.bbc.com/news/business-35300685</link>
+            <guid isPermaLink="false">45009597-97ef-4299-89dc-831b1774e96a</guid>
+            <pubDate>Wed, 02 Mar 2016 07:14:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
