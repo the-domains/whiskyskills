@@ -4,8 +4,15 @@
         <description><![CDATA[WhiskySkills ]]></description>
         <link>https://thegrid.ai/whiskyskills/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 09:46:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 10:35:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/whiskyskills/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Mick Jagger of Whisky Wants You to Drink It Your Way]]></title>
+            <description><![CDATA[<article><h1>The Mick Jagger of Whisky Wants You to Drink It Your Way</h1><p>There are far too many variables in whisky for there to be a "right" way to drink it.</p></article>]]></description>
+            <link>https://munchies.vice.com/en/articles/the-mick-jagger-of-whisky-wants-you-to-drink-it-your-way</link>
+            <guid isPermaLink="false">defa826c-58be-4305-87db-e70aa8135947</guid>
+            <pubDate>Sat, 26 Mar 2016 10:34:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The UK's Economy Is Powered by Whisky]]></title>
             <description><![CDATA[<article><h1>The UK's Economy Is Powered by Whisky</h1><p>The Scotch whisky industry adds nearly £5 billion to the UK's economy, making it bigger than the iron and steel, textiles, shipbuilding, or computer industries.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.eventmagazine.co.uk/johnnie-walker-reveals-plans-chocolate-themed-tasting-event/brands/article/1388258</link>
             <guid isPermaLink="false">7cf74256-2856-4011-bdae-a1c7f380ce26</guid>
             <pubDate>Mon, 21 Mar 2016 21:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why whisky connoisseurs are truly in love with Islay - Spear's Magazine]]></title>
-            <description><![CDATA[<article><h1>Why whisky connoisseurs are truly in love with Islay - Spear's Magazine</h1><p>Whisky is now a global industry, but the 'Queen of the Hebrides' still holds its beating heart, says Alex Matchett We were lucky, they said; sometimes you're stuck in the air, turning slow circles over Laggan Bay while the early-morning wind flecks white on the slate sea.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd25fff0e75a0c190b0cd9dc31161237ded1ae24.jpg"></article>]]></description>
-            <link>http://www.spearswms.com/why-whisky-connoisseurs-are-truly-in-love-with-islay/</link>
-            <guid isPermaLink="false">c79e7c12-9fcc-476d-9deb-bc0f197981d2</guid>
-            <pubDate>Sun, 20 Mar 2016 06:04:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
