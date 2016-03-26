@@ -4,8 +4,15 @@
         <description><![CDATA[WhiskySkills ]]></description>
         <link>https://thegrid.ai/whiskyskills/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 01:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 09:46:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/whiskyskills/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The UK's Economy Is Powered by Whisky]]></title>
+            <description><![CDATA[<article><h1>The UK's Economy Is Powered by Whisky</h1><p>The Scotch whisky industry adds nearly £5 billion to the UK's economy, making it bigger than the iron and steel, textiles, shipbuilding, or computer industries.</p></article>]]></description>
+            <link>https://munchies.vice.com/en/articles/the-uks-economy-is-powered-by-whisky</link>
+            <guid isPermaLink="false">71707677-928b-436c-8ee9-2e41e7a904bc</guid>
+            <pubDate>Sat, 26 Mar 2016 09:45:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The World's Best Whisky Is Being Sent to the Space Station]]></title>
             <description><![CDATA[<article><h1>The World's Best Whisky Is Being Sent to the Space Station</h1><p>Suntory is sending six of its whiskies on a wild extraterrestrial vacation to explore how zero-gravity environments could benefit their flavors.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.spearswms.com/why-whisky-connoisseurs-are-truly-in-love-with-islay/</link>
             <guid isPermaLink="false">c79e7c12-9fcc-476d-9deb-bc0f197981d2</guid>
             <pubDate>Sun, 20 Mar 2016 06:04:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Story of Johnnie Walker]]></title>
-            <description><![CDATA[<article><h1>The Story of Johnnie Walker</h1><p>The help screen said to right click the YouTube share tag to embed a video but this does not appear to have worked. So my second attempt was to paste the url as the file location for an image.</p></article>]]></description>
-            <link>https://thegrid.ai/whiskyskills/httpsyoutubemnsip76cvui/index.html</link>
-            <guid isPermaLink="false">9e97f05e-6cb2-4de2-b0fe-af58bf7b4825</guid>
-            <pubDate>Thu, 10 Mar 2016 05:54:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
