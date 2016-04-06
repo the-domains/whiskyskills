@@ -4,8 +4,15 @@
         <description><![CDATA[WhiskySkills ]]></description>
         <link>https://thegrid.ai/whiskyskills/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 10:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 06:33:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/whiskyskills/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet the World's First Female Master Whisky Blender]]></title>
+            <description><![CDATA[<article><h1>Meet the World's First Female Master Whisky Blender</h1><p>Just 12 people in the world hold the title of master whisky blender, a role requiring extraordinary sense of smell and supreme distilling know-how.</p></article>]]></description>
+            <link>https://munchies.vice.com/en/articles/meet-the-worlds-first-female-master-whisky-blender</link>
+            <guid isPermaLink="false">1740d443-4060-4673-9611-91d32ca83ede</guid>
+            <pubDate>Wed, 06 Apr 2016 06:33:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Mick Jagger of Whisky Wants You to Drink It Your Way]]></title>
             <description><![CDATA[<article><h1>The Mick Jagger of Whisky Wants You to Drink It Your Way</h1><p>There are far too many variables in whisky for there to be a "right" way to drink it.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.eventmagazine.co.uk/event-showcase-johnnie-walker-symphony-blue/brands/article/1374648</link>
             <guid isPermaLink="false">ac3fd2f0-03e3-4a7a-8a11-05866b87ff2a</guid>
             <pubDate>Mon, 21 Mar 2016 21:59:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Johnnie Walker to host chocolate-themed tasting event]]></title>
-            <description><![CDATA[<article><h1>Johnnie Walker to host chocolate-themed tasting event</h1><p>Scotch whisky brand Johnnie Walker will host a chocolate and whisky tasting session in London's Hammersmith on Thursday (24 March) ahead of the Easter break. Brand ambassadors will be on hand to guide attendees through the origins of the drink and how it is produced.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/995cb1ea4e64e62278c60bc5aae538b812287e30.jpg"></article>]]></description>
-            <link>http://www.eventmagazine.co.uk/johnnie-walker-reveals-plans-chocolate-themed-tasting-event/brands/article/1388258</link>
-            <guid isPermaLink="false">7cf74256-2856-4011-bdae-a1c7f380ce26</guid>
-            <pubDate>Mon, 21 Mar 2016 21:51:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
